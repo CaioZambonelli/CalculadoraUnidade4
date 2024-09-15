@@ -1,0 +1,15 @@
+
+def mensagem_inicial():
+    print('')
+    print('------ * Calculadora * ------')
+    print('    Operações disponíveis    ')
+    print(' + : Soma')
+    print(' - : Subtração')
+    print(' * : Multiplicação')
+    print(' + : Divisão')
+    print('------ * ----------- * ------')
+    print('Para calcular, insira um número,')
+    print('depois a operação, e por fim ou-')
+    print('tro número. Ao fim, informe mais')
+    print('uma operação ou insira x p/ sair')
+    print('')
